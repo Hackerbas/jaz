@@ -1,0 +1,10 @@
+{
+    "roblox": {
+        "name": "Roblox",
+        "description": "Play and create games in the Roblox universe.",
+        "version": "1.0.0",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Roblox_Logo_2021.svg",
+        "download": "https://roblox.com/download",
+        "dependencies": []
+    }
+}
